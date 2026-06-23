@@ -1,16 +1,25 @@
-## Hi there 👋
+# Bryan Navarro-Yan
 
-<!--
-**bryandotnav/bryandotnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in NYC. Building full-stack products from the Bronx.
 
-Here are some ideas to get you started:
+Currently a fellow at **The Marcy Lab School** — working through JavaScript, React, Node.js, Express, and PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**What I'm building**
+
+- `Wave` — social event planning app for NYC friend groups (React Native, Supabase, Mapbox)
+- `Shelf` — dark-themed book and movie tracker with social features (React, Node/Express, PostgreSQL)
+- `Quantum Cliff` — B2B quantum computing education platform targeting financial services
+
+---
+
+**Stack**
+
+JavaScript · React · React Native · Node.js · Express · PostgreSQL · Python · Supabase
+
+---
+
+**Elsewhere**
+
+[LinkedIn](https://linkedin.com/in/bryan-navarro-yan) · [LeetCode](https://leetcode.com/bryan001700)
