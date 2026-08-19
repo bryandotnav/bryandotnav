@@ -8,7 +8,6 @@ Currently a fellow at **The Marcy Lab School** — working through JavaScript, R
 
 **What I'm building**
 
-- `Wave` — social event planning app for NYC friend groups (React Native, Supabase, Mapbox)
 - `Shelf` — dark-themed book and movie tracker with social features (React, Node/Express, PostgreSQL)
 - `Quantum Cliff` — B2B quantum computing education platform targeting financial services
 
